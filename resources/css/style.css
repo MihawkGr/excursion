@@ -28,3 +28,10 @@ body {
     color: aquamarine;
 
 }
+
+/* FOOTER */
+.footer--mainm {
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
